@@ -1,4 +1,4 @@
-# WORDの記事の雛形 Typst版
+# 電気通信研究会の記事の雛形 Typst版
 
 [WORD-COINS/article-template](https://github.com/WORD-COINS/article-template) をもとに Typst で実装された記事のテンプレートです。
 
