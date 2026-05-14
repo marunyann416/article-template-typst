@@ -21,7 +21,7 @@
     dy: -4pt,
     image(
       width: 100%,
-      "assets/wordlogo.svg",  //これを電気通信研究会のロゴに変更
+      "assets/touminlogo.png",  //これを電気通信研究会のロゴに変更
     ),
   )
 
