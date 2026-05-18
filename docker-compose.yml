@@ -3,3 +3,6 @@ services:
     build: .
     volumes:
       - .:/workspace
+      - typst-fonts:/workspace/fonts
+volumes:
+  typst-fonts:
